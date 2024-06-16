@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I'm a passionate hardware engineer with a focus on
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[optoivac]&show_icons=true&theme=radical)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=[YourUsername]&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=[optoivac]&color=blue)
