@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I'm a passionate hardware engineer with a focus on
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=optoivac&layout=compact&theme=radical)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=optoivac&color=blue)
+
